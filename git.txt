@@ -1,7 +1,0 @@
-Git Command Line:
-git init
-git status
-git add .
-git remote add origin git@github.com:zackariacodes/zackaria.com.git
-git branch -M master
-git push -u origin master
