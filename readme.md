@@ -8,6 +8,8 @@
 
 :es: Soy Zackaria bienvenido a mi sitio web.
 
+> :warning: ***Disclaimer some features might not display correctly depending on the device you're using.***
+
 ## .overview
 
 TBD
