@@ -15,8 +15,10 @@
 TBD
 
 ## .project_timeline
-
-TBD
+* **1.27.23:** created repository.
+* **5.19.23:** purchased domain from [Namecheap](https://www.namecheap.com/).
+* **1.28.24:** created markdown file.
+* **1.29.24:** established file directory
 
 ## .technologies used
 
@@ -33,3 +35,5 @@ TBD
 ### .contact me
 
 TBD
+
+> Made with ❤️ by [zackaria](www.zackaria.com) in Denver, CO | © All rights reserved 2024.
