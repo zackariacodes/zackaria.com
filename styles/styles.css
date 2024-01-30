@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'AmiriQuran-Regular';
+    src: url('fonts\AmiriQuran-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+.coming-soon {
+    text-align: center;
+}
+
+.arabic {
+    font-family: 'AmiriQuran-Regular', Arial, sans-serif;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+
+.title {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.contact-info {
+    font-size: 1.2em;
+}
