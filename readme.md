@@ -28,6 +28,7 @@ TBD
 * CSS3 (.css)
 * Java Script (.js)
 * Sass (.scss)
+* Particles.js (as-is)
 
 **more coming soon**
 
