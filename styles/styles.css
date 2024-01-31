@@ -1,36 +1,35 @@
-@font-face {
-    font-family: 'AmiriQuran-Regular';
-    src: url('fonts\AmiriQuran-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    font-family: 'Orbitron', sans-serif;
+    background-color: black;
     height: 100vh;
-    margin: 0;
-    background-color: #f0f0f0;
-    font-family: Arial, sans-serif;
 }
 
-.coming-soon {
+h1 {
+    color: grey;
+    font-size: 72px;
+    text-transform: uppercase;
     text-align: center;
+    padding-top: 40vh;
+    text-shadow: 0 0 10px rgba(255, 255, 255, .35);
+    z-index: -20;
+    user-select: none;
 }
 
-.arabic {
-    font-family: 'AmiriQuran-Regular', Arial, sans-serif;
-    font-size: 2em;
-    margin-bottom: 20px;
+h3 {
+    
 }
 
-
-.title {
-    font-size: 2em;
-    margin-bottom: 20px;
-}
-
-.contact-info {
-    font-size: 1.2em;
+#bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 10;
 }
